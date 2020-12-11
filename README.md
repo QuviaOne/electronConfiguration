@@ -1,1 +1,1 @@
-# electronConfiguration
+# Electron Configuration
