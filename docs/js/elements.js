@@ -1,4 +1,4 @@
-const elemetns = [
+export default [
     {
         symbol: "H",
         name: "Hydrogen",
@@ -7,6 +7,6 @@ const elemetns = [
     {
         symbol: "He",
         name: "Helium",
-        czech: "Helium"
+        czech: "Hélium"
     }
 ]
